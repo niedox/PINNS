@@ -1,6 +1,6 @@
 
 # Neural Network based ion-channel model fitting
-Implementation of PINNS (physically inspired neural networks) to model ion-channels. A combination of  experimental data and Hodgkin-Huxley ODEs is used to train the PINNs-model.  
+Implementation of PINNS (physically inspired neural networks) to model ion-channels dynamics. A combination of  experimental data and Hodgkin-Huxley ODEs is used to train the PINNs-model.  
 
 ## Repository structure
 
